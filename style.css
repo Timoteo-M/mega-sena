@@ -1,0 +1,22 @@
+*{
+    text-align: center;
+    background-color: rgb(248, 238, 226);
+    font-family: 'Righteous', cursive;
+}
+
+div{
+    width: 400px;
+    margin: auto;
+
+}
+
+.resposta{
+    margin-top: 40px;
+    height: 180px;
+    text-align: center;
+
+}
+h2, #btnEnviar {
+    background-color: burlywood;
+    border-radius: 10px;
+}
