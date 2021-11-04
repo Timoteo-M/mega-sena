@@ -5,7 +5,7 @@
 }
 
 div{
-    width: 400px;
+    width: 350px;
     margin: auto;
 
 }
@@ -19,4 +19,11 @@ div{
 h2, #btnEnviar {
     background-color: burlywood;
     border-radius: 10px;
+}
+h2{
+    height: 50px;
+    padding: 20px;
+}
+.controle{
+    margin-top: 10px;
 }
